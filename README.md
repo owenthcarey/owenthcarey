@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Owen Carey</h1>
 
 <p align="center">
-  <em>I build open-source frameworks and developer tools focused on cross-platform UI, language interoperability, and reproducible research.</em>
+  <em>I build open-source frameworks that bring Python to native mobile and web UI and make code portable across language boundaries.</em>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## About
 
-Most of what I work on sits at one of three intersections: building UI frameworks in languages and styles their platform isn't used to, getting code to cross language boundaries safely, or making research systems reproducible enough to verify. The projects below are the ones I'm actively maintaining.
+My work centers on two related problems: writing UI in Python for platforms that don't expect it and moving code safely across language boundaries. PythonNative compiles declarative Python components to real UIKit and AndroidX views, Wybthon brings a signals-first reactive model to the browser through Pyodide, and WeaveFFI generates type-safe bindings for eleven languages from a single IDL. These are the projects I'm actively maintaining.
 
 ## Featured Projects
 
@@ -51,27 +51,3 @@ WeaveFFI generates idiomatic packages for C, C++, Swift, Kotlin/Android, Node.js
 `Rust` · `C ABI` · `IDL` · `Code generation` · `cargo`
 
 [![Stars](https://img.shields.io/github/stars/weavefoundry/weaveffi?style=flat&logo=github&color=181717)](https://github.com/weavefoundry/weaveffi/stargazers) [![Forks](https://img.shields.io/github/forks/weavefoundry/weaveffi?style=flat&logo=github&color=181717)](https://github.com/weavefoundry/weaveffi/network/members) [![Language](https://img.shields.io/github/languages/top/weavefoundry/weaveffi?style=flat)](https://github.com/weavefoundry/weaveffi) [![Last commit](https://img.shields.io/github/last-commit/weavefoundry/weaveffi?style=flat)](https://github.com/weavefoundry/weaveffi/commits)
-
----
-
-### [Hydrateless](https://github.com/hydrateless/hydrateless)
-
-**Fast, accessible UI primitives built on semantic HTML and modern CSS.**
-
-Hydrateless ships accordions, tabs, modals, drawers, tooltips, and other primitives that work without JavaScript by leaning on `<details>`, the `:has()` selector, and CSS layers. The companion `@hydrateless/auto` package detects `data-hl-*` attributes and lazy-loads small enhancers only where keyboard navigation, focus traps, or ARIA management actually need them. It's themeable through design tokens, dark-mode aware, and accessible by default.
-
-`TypeScript` · `CSS` · `Semantic HTML` · `Design tokens` · `A11y`
-
-[![Stars](https://img.shields.io/github/stars/hydrateless/hydrateless?style=flat&logo=github&color=181717)](https://github.com/hydrateless/hydrateless/stargazers) [![Forks](https://img.shields.io/github/forks/hydrateless/hydrateless?style=flat&logo=github&color=181717)](https://github.com/hydrateless/hydrateless/network/members) [![Language](https://img.shields.io/github/languages/top/hydrateless/hydrateless?style=flat)](https://github.com/hydrateless/hydrateless) [![Last commit](https://img.shields.io/github/last-commit/hydrateless/hydrateless?style=flat)](https://github.com/hydrateless/hydrateless/commits)
-
----
-
-### [LDTC](https://github.com/ldtc-labs/ldtc)
-
-**A verification harness for the Loop-Dominance Theory of Consciousness.**
-
-LDTC is a minimal, substrate-agnostic toolkit that measures loop-dominance (Lloop versus Lexchange) at fixed Δt using VAR-Granger and Kraskov k-NN mutual information. It enforces guardrails through an enclave-protected LREG with a hash-chained audit log, runs Ω-perturbation trials (power sag, ingress flood, command conflict, and exogenous subsidy), and evaluates NC1 and SC1 with Ed25519-signed indicators. It ships with a CLI, reproducible configuration profiles, and an optional hardware adapter for ingesting real telemetry.
-
-`Python` · `Information theory` · `Reproducible research` · `CLI`
-
-[![Stars](https://img.shields.io/github/stars/ldtc-labs/ldtc?style=flat&logo=github&color=181717)](https://github.com/ldtc-labs/ldtc/stargazers) [![Forks](https://img.shields.io/github/forks/ldtc-labs/ldtc?style=flat&logo=github&color=181717)](https://github.com/ldtc-labs/ldtc/network/members) [![Language](https://img.shields.io/github/languages/top/ldtc-labs/ldtc?style=flat)](https://github.com/ldtc-labs/ldtc) [![Last commit](https://img.shields.io/github/last-commit/ldtc-labs/ldtc?style=flat)](https://github.com/ldtc-labs/ldtc/commits)
