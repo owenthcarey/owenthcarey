@@ -2,21 +2,12 @@
 
 <p align="center"><em>Open-source projects I created and maintain</em></p>
 
-<p align="center">
-  <sub><b>UI</b></sub><br>
-  <a href="https://github.com/pythonnative/pythonnative">PythonNative</a> &nbsp;·&nbsp;
-  <a href="https://github.com/wybthon/wybthon">Wybthon</a> &nbsp;·&nbsp;
-  <a href="https://github.com/hydrateless/hydrateless">Hydrateless</a>
-</p>
+<div align="center">
 
-<p align="center">
-  <sub><b>LANGUAGES & COMPILERS</b></sub><br>
-  <a href="https://github.com/weavefoundry/weaveffi">WeaveFFI</a> &nbsp;·&nbsp;
-  <a href="https://github.com/weavefoundry/weavepy">WeavePy</a> &nbsp;·&nbsp;
-  <a href="https://github.com/weavefoundry/weavec">WeaveC</a>
-</p>
+| UI | Languages & compilers | Scientific computing |
+| :-: | :-: | :-: |
+| [PythonNative](https://github.com/pythonnative/pythonnative) | [WeaveFFI](https://github.com/weavefoundry/weaveffi) | [Fugacio](https://github.com/fugacio/fugacio) |
+| [Wybthon](https://github.com/wybthon/wybthon) | [WeavePy](https://github.com/weavefoundry/weavepy) | |
+| [Hydrateless](https://github.com/hydrateless/hydrateless) | [WeaveC](https://github.com/weavefoundry/weavec) | |
 
-<p align="center">
-  <sub><b>SCIENTIFIC COMPUTING</b></sub><br>
-  <a href="https://github.com/fugacio/fugacio">Fugacio</a>
-</p>
+</div>
