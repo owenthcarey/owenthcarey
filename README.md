@@ -3,7 +3,7 @@
 <p align="center"><em>Open-source projects I created and maintain</em></p>
 
 <p align="center">
-  <b>UI frameworks</b><br>
+  <b>UI</b><br>
   <a href="https://github.com/pythonnative/pythonnative">PythonNative</a> ·
   <a href="https://github.com/wybthon/wybthon">Wybthon</a> ·
   <a href="https://github.com/hydrateless/hydrateless">Hydrateless</a>
