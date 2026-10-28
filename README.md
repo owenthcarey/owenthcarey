@@ -1,9 +1,23 @@
-## Hi, I'm Owen Carey
+<h2 align="center">Hi, I'm Owen Carey</h2>
 
-Open-source projects I created and maintain:
+<p align="center"><em>Open-source projects I created and maintain</em></p>
 
-| UI frameworks | Languages & compilers | Science & games |
-| --- | --- | --- |
-| [PythonNative](https://github.com/pythonnative/pythonnative) | [WeaveFFI](https://github.com/weavefoundry/weaveffi) | [Fugacio](https://github.com/fugacio/fugacio) |
-| [Wybthon](https://github.com/wybthon/wybthon) | [WeavePy](https://github.com/weavefoundry/weavepy) | [Gospel RPG](https://github.com/owenthcarey/gospel-rpg) |
-| [Hydrateless](https://github.com/hydrateless/hydrateless) | [WeaveC](https://github.com/weavefoundry/weavec) | |
+<p align="center">
+  <b>UI frameworks</b><br>
+  <a href="https://github.com/pythonnative/pythonnative">PythonNative</a> ·
+  <a href="https://github.com/wybthon/wybthon">Wybthon</a> ·
+  <a href="https://github.com/hydrateless/hydrateless">Hydrateless</a>
+</p>
+
+<p align="center">
+  <b>Languages & compilers</b><br>
+  <a href="https://github.com/weavefoundry/weaveffi">WeaveFFI</a> ·
+  <a href="https://github.com/weavefoundry/weavepy">WeavePy</a> ·
+  <a href="https://github.com/weavefoundry/weavec">WeaveC</a>
+</p>
+
+<p align="center">
+  <b>Science & games</b><br>
+  <a href="https://github.com/fugacio/fugacio">Fugacio</a> ·
+  <a href="https://github.com/owenthcarey/gospel-rpg">Gospel RPG</a>
+</p>
