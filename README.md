@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Owen Carey</h2>
+<h3 align="center">Hi, I'm Owen Carey</h3>
 
 <p align="center"><em>Open-source projects I created and maintain</em></p>
 
