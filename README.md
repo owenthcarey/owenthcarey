@@ -17,7 +17,6 @@
 </p>
 
 <p align="center">
-  <b>Science & games</b><br>
-  <a href="https://github.com/fugacio/fugacio">Fugacio</a> ·
-  <a href="https://github.com/owenthcarey/gospel-rpg">Gospel RPG</a>
+  <b>Scientific computing</b><br>
+  <a href="https://github.com/fugacio/fugacio">Fugacio</a>
 </p>
